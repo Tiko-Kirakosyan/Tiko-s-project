@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 260px;
+ 
+}
+
+body{
+  background-color: rgb(27, 27, 27);
+}
+span{
+  color: white;
+}
+button{
+  font-size: 70px;
+  margin: 10px;
+  padding: 0px 7px;
+
+}
+
+.bt{
+  padding: 0px 12px;
+}
